@@ -1,5 +1,3 @@
-# Rishi-Bhardwaj-Module-4-HTML-CSS-JAVASCRIPT-FOR-WEB-DEVELOPERS-COURSERA-
-
 <!DOCTYPE html> 
  <html> 
  <head> 
